@@ -6,3 +6,40 @@ test-output/
 node_modules/**
 .orig
 .metadata
+
+# Servlet specific
+build/
+dist/
+out/
+*.war
+*.ear
+
+# Application servers
+servers/
+.tomcat/
+.wildfly/
+.jboss/
+*.log
+catalina.*/
+
+# Eclipse WTP
+.deployables/
+.wtpmodules/
+.server/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+.mvn/
+
+# Compiled classes
+*.class
+
+# Temporary files
+tmp/
+temp/
+*.tmp
