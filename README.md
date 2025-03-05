@@ -1,4 +1,3 @@
-
 # Exercise
 ## Xây dựng hệ thống CRM quản lý công việc nhân viên công ty với các yêu cầu sau:
 - Hệ thống cho phép quản trị hệ thống (ADMIN) đăng nhập và thêm mới, sửa, xóa, xem thông tin, cấp quyền cho nhân viên.
